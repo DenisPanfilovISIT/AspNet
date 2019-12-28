@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=DENISPANFILOV;Initial Catalog=Morozhenoe;Integrated Security=True"
+  }
+  
+}
